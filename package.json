@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-homebrew",
+  "version": "0.0.1",
+  "description": "Unix like shell for mac homebrew.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-homebrew.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-homebrew"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-homebrew/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-homebrew"
+}
