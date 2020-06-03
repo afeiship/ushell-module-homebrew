@@ -7,6 +7,6 @@ alias bs-start="brew services start ";
 alias bs-stop="brew services stop ";
 alias bs-list="brew services list ";
 
-export HOMEBREW_BOTTLE_DOMAIN=http://7xkcej.dl1.z0.glb.clouddn.com;
+# export HOMEBREW_BOTTLE_DOMAIN=http://7xkcej.dl1.z0.glb.clouddn.com;
 
 unset ROOT_PATH;
