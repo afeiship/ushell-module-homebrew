@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-homebrew
+npm i -S @jswork/ushell-module-homebrew
 ```
 
 ## resources
