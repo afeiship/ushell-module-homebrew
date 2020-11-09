@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-homebrew",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unix like shell for mac homebrew.",
   "main": "index.sh",
   "repository": {
