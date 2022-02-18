@@ -9,7 +9,7 @@ alias bws-stop="brew services stop"
 alias bws-restart="brew services restart"
 alias bws-cleanup="brew services cleanup"
 
-# export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles;
-export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.cloud.tencent.com/homebrew-bottles;
+export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles;
+# export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.cloud.tencent.com/homebrew-bottles;
 
 unset ROOT_PATH;
