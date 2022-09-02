@@ -30,7 +30,7 @@
   "scripts": {
     "release": "release-it"
   },
-  "dependencies": {
+  "devDependencies": {
     "release-it": "^15.4.1"
   }
 }
